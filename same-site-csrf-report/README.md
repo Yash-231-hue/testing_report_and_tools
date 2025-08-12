@@ -3,8 +3,8 @@
 This repository contains a vulnerability assessment I completed as part of a security testing lab. It documents a SameSite cookie bypass that allows a CSRF attack on a "change email" endpoint.
 
 ## 📚 Project Context
-- Author: [Your Name]
-- Course/Internship: [Course Name or Program]
+- Author: Yash Gujarathi
+- Course/Internship: NA
 - Date: August 2025
 - Environment: Internal test lab / simulated web app (no real-world systems affected)
 
@@ -17,3 +17,4 @@ This repository contains a vulnerability assessment I completed as part of a sec
 
 ## ⚠️ Disclaimer
 This is an educational security project. All findings were made in a safe test environment. No unauthorized testing was performed.
+
